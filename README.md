@@ -81,6 +81,14 @@ A web application for residents to report public issues like broken streetlights
 - `PUT /api/complaints/:id` - Update a complaint
 - `DELETE /api/complaints/:id` - Delete a complaint
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/2dcb1b9a-7da5-43f1-98e4-7116c26d73ea)
+![image](https://github.com/user-attachments/assets/2e5be4d0-a72b-4fde-814c-a265e537d4e2)
+![image](https://github.com/user-attachments/assets/7016f0de-15f8-442e-b3d1-588865a3bf32)
+
+
+
+
 ## License
 
 This project is open source. 
